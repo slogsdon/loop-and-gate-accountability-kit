@@ -1,0 +1,18 @@
+{
+  "name": "loop-and-gate-accountability-kit",
+  "owner": {
+    "name": "Shane Logsdon",
+    "email": "shane@shanelogsdon.com"
+  },
+  "metadata": {
+    "description": "Loop & Gate Accountability Kit — a judgment layer for your own follow-through, with a deferral engine that catches the thing you keep avoiding."
+  },
+  "plugins": [
+    {
+      "name": "loop-and-gate-accountability-kit",
+      "source": "./",
+      "description": "The eight gates of a daily accountability loop plus five ritual commands (morning, log, eod, plan-tomorrow, weekly-signals). Tracks deferrals, trips a pattern alert at three strikes, and scores your week honestly. Runs on Claude alone.",
+      "category": "productivity"
+    }
+  ]
+}
