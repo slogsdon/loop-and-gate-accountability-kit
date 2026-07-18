@@ -99,6 +99,10 @@ record of your own avoidance.
 - **The flywheel.** This kit stands alone, but if the other two are installed, its
   nightly reckoning is where a stalled Build ship or an unposted Grow piece gets
   caught — closing Build → Grow → Accountability → Build.
+- **Across your devices** — the Foundation's [Working across devices](https://github.com/slogsdon/second-brain-agent#working-across-devices)
+  guide applies here too. This kit's daily state lives in the same vault, so the
+  same Remote Control, sync, and worktree discipline runs it from your phone,
+  tablet, or desk — nothing kit-specific to set up.
 - **The field guide** is the narrative version of the gates, with one honest worked
   example carried the whole way through. This kit is the terse, runnable form.
 
