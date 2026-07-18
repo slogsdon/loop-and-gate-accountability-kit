@@ -103,6 +103,10 @@ record of your own avoidance.
   guide applies here too. This kit's daily state lives in the same vault, so the
   same Remote Control, sync, and worktree discipline runs it from your phone,
   tablet, or desk — nothing kit-specific to set up.
+- **The method's lineage** — the gate model and the thinking behind it (Karpathy's
+  system-prompt learning, Addy Osmani's self-improving agents, and more) are
+  documented in the Foundation's [README](https://github.com/slogsdon/second-brain-agent)
+  and [ARCHITECTURE.md](https://github.com/slogsdon/second-brain-agent/blob/main/ARCHITECTURE.md).
 - **The field guide** is the narrative version of the gates, with one honest worked
   example carried the whole way through. This kit is the terse, runnable form.
 
