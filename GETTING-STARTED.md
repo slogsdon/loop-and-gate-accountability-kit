@@ -32,7 +32,7 @@ beyond your Claude plan.
 At [claude.ai](https://claude.ai), make sure you're on **Pro** or **Max**. This is
 the step people miss, and nothing works without it.
 
-## Step 2 — install the Claude Code Desktop app
+## Step 2 — install the Claude desktop app
 
 A normal app you double-click to install, no terminal.
 
@@ -110,6 +110,10 @@ much the day earns is the master gate, and it's yours.
   and [Grow](https://github.com/slogsdon/loop-and-gate-grow-kit) — run the same
   method on your code and your market. If you use them, this kit's nightly
   reckoning is where a stalled ship or an unposted piece gets caught.
+- **Across your devices.** Run your rituals from your phone or tablet too, not just
+  your desk. The Foundation's [Working across devices](https://github.com/slogsdon/second-brain-agent#working-across-devices)
+  guide — Remote Control, Dispatch, and keeping notes in sync — applies here as
+  well, since this kit's daily notes are just files.
 
 ## Prefer the terminal?
 
