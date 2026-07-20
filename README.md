@@ -1,5 +1,7 @@
 # Loop & Gate — Accountability Kit
 
+[![Listed on ClaudePluginHub](https://www.claudepluginhub.com/badge/slogsdon-loop-and-gate-accountability-kit)](https://www.claudepluginhub.com/plugins/slogsdon-loop-and-gate-accountability-kit?ref=badge)
+
 A judgment layer for your own follow-through. Habit apps remember what you did.
 This remembers what you **said you would do and didn't**, counts it, and catches
 you when you keep quietly deferring the hard thing. The gates are the map of the
@@ -62,6 +64,21 @@ alone.
 
 **Prefer the terminal?** `git clone` this repo and run `./scripts/setup.sh` in the
 project (or Obsidian vault) you want to track.
+
+## Usage
+
+Five ritual commands, run across the day:
+
+```
+/morning         # set today's focus (Gate ∞ + the commit gates)
+/log             # capture what you did, throughout the day
+/eod             # reckon: did you do what you said? (runs the deferral count)
+/plan-tomorrow   # set tomorrow while today is still honest
+/weekly-signals  # once a week, read the patterns straight
+```
+
+`/eod` is the one with teeth: a morning focus that didn't show up in the log
+gets a deferral increment, and at three strikes it trips a pattern alert.
 
 ## The gates
 
