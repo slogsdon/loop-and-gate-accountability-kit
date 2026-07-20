@@ -17,6 +17,20 @@ deferral increment, and at three strikes it trips a pattern alert that forces a
 decision. **The gates are the asset. The files are a disposable appendix. It runs
 on Claude alone — no account, no local model, no subscription.**
 
+## What this is / what it's not
+
+**It is** the human-decision gates for your own follow-through — a runnable
+gates reference (`reference/accountability-gates.md`), a deferral engine that
+counts the focus you keep skipping and trips a pattern alert at three strikes,
+and five ritual commands (`morning`, `log`, `eod`, `plan-tomorrow`,
+`weekly-signals`). It runs on Claude alone — no account, no local model, no
+subscription.
+
+**It is not** a habit tracker that rewards streaks, and it is not an autopilot:
+it surfaces the reckoning and counts the misses, but the follow-through is
+yours. Answer it with a comfortable story and all you get is a well-documented
+record of your own avoidance.
+
 ## What's in here
 
 | Path | What it is |
@@ -99,16 +113,25 @@ record of your own avoidance.
 - **The flywheel.** This kit stands alone, but if the other two are installed, its
   nightly reckoning is where a stalled Build ship or an unposted Grow piece gets
   caught — closing Build → Grow → Accountability → Build.
-- **Across your devices** — the Foundation's [Working across devices](https://github.com/slogsdon/second-brain-agent#working-across-devices)
+- **Across your devices** — the Foundation's [Working across devices](https://github.com/slogsdon/loop-and-gate-foundation#working-across-devices)
   guide applies here too. This kit's daily state lives in the same vault, so the
   same Remote Control, sync, and worktree discipline runs it from your phone,
   tablet, or desk — nothing kit-specific to set up.
 - **The method's lineage** — the gate model and the thinking behind it (Karpathy's
   system-prompt learning, Addy Osmani's self-improving agents, and more) are
-  documented in the Foundation's [README](https://github.com/slogsdon/second-brain-agent)
-  and [ARCHITECTURE.md](https://github.com/slogsdon/second-brain-agent/blob/main/ARCHITECTURE.md).
+  documented in the Foundation's [README](https://github.com/slogsdon/loop-and-gate-foundation)
+  and [ARCHITECTURE.md](https://github.com/slogsdon/loop-and-gate-foundation/blob/main/ARCHITECTURE.md).
 - **The field guide** is the narrative version of the gates, with one honest worked
   example carried the whole way through. This kit is the terse, runnable form.
+
+## Contributing
+
+Issues and pull requests are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md)
+for how to report bugs, propose gate or skill changes, and the PR conventions.
+One thing up front: the gates and the deferral count are the asset, so PRs that
+remove a gate or defang the count will be declined. See also the
+[Code of Conduct](CODE_OF_CONDUCT.md) and the
+[security policy](.github/SECURITY.md).
 
 ## Status
 
