@@ -177,6 +177,18 @@ _Mode: Pattern. Once a week — the view the daily gates can't give you._
 
 ---
 
+## Off the loop: `decide`
+
+Not a gate — an on-demand ritual for when a single decision is circling. It runs
+the deferral engine's lens on one choice instead of the whole day: reads your
+goals and deferral log, names the avoidance pattern (Mirror), strips the choice to
+one sentence (Real Decision), and forces one action this week (Recommendation +
+Next Step). A decision you keep re-opening is the same signal as a task you keep
+deferring, so `decide` can log it into the same `patterns.md` the weekly gate
+reads. Reach for it between gates; the numbered loop above is unchanged.
+
+---
+
 ## The state underneath
 
 Where all this gets written down — plain markdown, or your Obsidian vault if you

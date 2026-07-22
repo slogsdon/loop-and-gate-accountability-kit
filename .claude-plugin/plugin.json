@@ -1,6 +1,6 @@
 {
   "name": "loop-and-gate-accountability-kit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A judgment layer for your own follow-through — eight gates and five ritual commands, with a deferral engine that trips a pattern alert on the task you keep avoiding. Runs on Claude alone, no account or local model.",
   "author": { "name": "Shane Logsdon" },
   "license": "MIT"

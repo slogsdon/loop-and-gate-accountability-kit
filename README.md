@@ -24,8 +24,9 @@ on Claude alone — no account, no local model, no subscription.**
 **It is** the human-decision gates for your own follow-through — a runnable
 gates reference (`reference/accountability-gates.md`), a deferral engine that
 counts the focus you keep skipping and trips a pattern alert at three strikes,
-and five ritual commands (`morning`, `log`, `eod`, `plan-tomorrow`,
-`weekly-signals`). It runs on Claude alone — no account, no local model, no
+five ritual commands (`morning`, `log`, `eod`, `plan-tomorrow`,
+`weekly-signals`), and an on-demand `decide` ritual for cutting through a stuck
+decision. It runs on Claude alone — no account, no local model, no
 subscription.
 
 **It is not** a habit tracker that rewards streaks, and it is not an autopilot:
@@ -40,7 +41,7 @@ record of your own avoidance.
 | `GETTING-STARTED.md` | Zero-assumptions walkthrough — start here if you're new to any of this. |
 | `reference/accountability-gates.md` | The eight gates in runnable checklist form — the core asset. |
 | `reference/the-deferral-engine.md` | The mechanic: increments, the 3-strike alert, named patterns, the weekly score — plus where state lives. |
-| `skills/` | Five ritual commands: `morning`, `log`, `eod`, `plan-tomorrow`, `weekly-signals`. |
+| `skills/` | Five daily ritual commands — `morning`, `log`, `eod`, `plan-tomorrow`, `weekly-signals` — plus the on-demand `decide`. |
 | `templates/` | Starter `goals.md`, `patterns.md`, and the daily-note shape the skills use. |
 | `.claude-plugin/` | Marketplace + plugin manifest — install via `/plugin marketplace add`. |
 | `scripts/setup.sh` | Optional convenience for the terminal/clone path. Not needed for plugin install. |
@@ -75,6 +76,13 @@ Five ritual commands, run across the day:
 /eod             # reckon: did you do what you said? (runs the deferral count)
 /plan-tomorrow   # set tomorrow while today is still honest
 /weekly-signals  # once a week, read the patterns straight
+```
+
+Plus one on-demand ritual, run whenever a decision is circling — not part of the
+daily loop:
+
+```
+/decide          # cut through a stuck decision (add `hard` to strip the softening)
 ```
 
 `/eod` is the one with teeth: a morning focus that didn't show up in the log
