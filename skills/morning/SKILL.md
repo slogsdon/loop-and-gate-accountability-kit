@@ -13,6 +13,9 @@ this.
 **Don't** propose more than one primary focus and two secondary. **Don't** let the
 easy visible task win by default — surface it *next to* the goal-moving one.
 
+`reference/…` and `templates/…` paths below are relative to the kit root, two
+levels above this SKILL.md (`../../reference/the-deferral-engine.md`).
+
 ## Steps
 
 1. **Resolve state** per `reference/the-deferral-engine.md` → State resolution

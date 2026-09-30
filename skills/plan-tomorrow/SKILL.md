@@ -14,6 +14,9 @@ remembering where you were.
 just resets its dodge. **Don't** plan an ambitious tomorrow that ignores how today
 actually went.
 
+`reference/…` and `templates/…` paths below are relative to the kit root, two
+levels above this SKILL.md (`../../reference/the-deferral-engine.md`).
+
 ## Steps
 
 1. **Resolve state** per `reference/the-deferral-engine.md` → State resolution.

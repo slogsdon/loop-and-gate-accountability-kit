@@ -12,6 +12,9 @@ and how much of what you did actually served a goal. Signals, not congratulation
 **Don't** produce a cheerful summary. **Don't** rationalize the numbers away — the
 low alignment score is the mirror, not an error.
 
+`reference/…` and `templates/…` paths below are relative to the kit root, two
+levels above this SKILL.md (`../../reference/the-deferral-engine.md`).
+
 ## Steps
 
 1. **Resolve state** per `reference/the-deferral-engine.md` → State resolution.

@@ -44,6 +44,7 @@ record of your own avoidance.
 | `skills/` | Five daily ritual commands — `morning`, `log`, `eod`, `plan-tomorrow`, `weekly-signals` — plus the on-demand `decide`. |
 | `templates/` | Starter `goals.md`, `patterns.md`, and the daily-note shape the skills use. |
 | `.claude-plugin/` | Marketplace + plugin manifest — install via `/plugin marketplace add`. |
+| `package.json` | pi package manifest — install via `pi install`. |
 | `scripts/setup.sh` | Optional convenience for the terminal/clone path. Not needed for plugin install. |
 
 ## Install
@@ -62,6 +63,15 @@ first `/morning` using the Claude desktop app.
 then click **Install**. The five ritual commands are now available. Unlike the
 Build and Grow kits, there's **nothing else to install** — this kit runs on Claude
 alone.
+
+**Using pi?** One command, no clone:
+
+```bash
+pi install git:github.com/slogsdon/loop-and-gate-accountability-kit
+```
+
+Each ritual is then `/skill:<name>`, e.g. `/skill:morning`. Like the Claude Code
+plugin, there's nothing else to install.
 
 **Prefer the terminal?** `git clone` this repo and run `./scripts/setup.sh` in the
 project (or Obsidian vault) you want to track.
