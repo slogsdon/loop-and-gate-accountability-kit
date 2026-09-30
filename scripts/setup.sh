@@ -18,7 +18,7 @@ if [ -d "$target/.obsidian" ]; then
   echo "The rituals will read/write your vault (Context/accountability,"
   echo "Context/patterns, Daily Notes/). No local scaffold needed."
   echo ""
-  echo "Start with:  /morning"
+  echo "Start with:  /morning  (on pi: /skill:morning)"
   exit 0
 fi
 
@@ -50,7 +50,8 @@ echo "each day's note automatically."
 echo ""
 
 cat <<'EOF'
-Next, inside Claude Code (Desktop app, web, or CLI):
+Next, inside Claude Code (Desktop app, web, or CLI) or pi — on pi each ritual
+is /skill:<name>, e.g. /skill:morning:
 
   1. Edit accountability/goals.md — name your few goals and the avoidance
      patterns you already know you fall into. This is Gate 0, and everything
