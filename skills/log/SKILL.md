@@ -12,6 +12,9 @@ capture beats polish every time.
 **Don't** turn this into a journal entry. **Do** capture decisions *and their
 reason* — the reason is what you can't reconstruct in three days.
 
+`reference/…` and `templates/…` paths below are relative to the kit root, two
+levels above this SKILL.md (`../../reference/the-deferral-engine.md`).
+
 ## Steps
 
 1. **Resolve state** per `reference/the-deferral-engine.md` → State resolution.

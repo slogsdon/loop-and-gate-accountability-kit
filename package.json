@@ -1,0 +1,11 @@
+{
+  "name": "loop-and-gate-accountability-kit",
+  "version": "0.3.0",
+  "description": "A judgment layer for your own follow-through — eight gates and five ritual commands, with a deferral engine that trips a pattern alert on the task you keep avoiding.",
+  "keywords": ["pi-package"],
+  "author": "Shane Logsdon <shane@shanelogsdon.com>",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/slogsdon/loop-and-gate-accountability-kit.git" },
+  "private": true,
+  "pi": { "skills": ["./skills"] }
+}

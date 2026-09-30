@@ -21,6 +21,9 @@ are you avoiding?"
 If the user says `/decide hard` or includes "hard mode", activate hard mode (see
 below).
 
+`reference/…` and `templates/…` paths below are relative to the kit root, two
+levels above this SKILL.md (`../../reference/the-deferral-engine.md`).
+
 ## Steps
 
 1. **Resolve state** per `reference/the-deferral-engine.md` → State resolution

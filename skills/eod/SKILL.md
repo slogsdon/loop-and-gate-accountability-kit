@@ -13,6 +13,9 @@ it.
 **Don't** rewrite this morning's focus to match the day. The miss is the signal.
 **Don't** count a busy day as a good day if the busyness didn't move the one thing.
 
+`reference/…` and `templates/…` paths below are relative to the kit root, two
+levels above this SKILL.md (`../../reference/the-deferral-engine.md`).
+
 ## Steps
 
 1. **Resolve state** per `reference/the-deferral-engine.md` → State resolution.
