@@ -139,7 +139,7 @@ record of your own avoidance.
 
 ## What this sits next to
 
-- **The whole stack** — [Loop & Gate](https://shane.logsdon.io/loop-and-gate/) — the
+- **The whole stack** — [Loop & Gate](https://projects.logsdon.io/loop-and-gate/) — the
   overview: the mental model, all four pieces, and how to install them together.
 - **The Build Kit** — [loop-and-gate-build-kit](https://github.com/slogsdon/loop-and-gate-build-kit)
   — runs the same method on your code (idea → shipped software).
